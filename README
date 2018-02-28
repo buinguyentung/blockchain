@@ -1,0 +1,12 @@
+Blockchain is a distributed database that maintains a continuously growing list of ordered records.
+The term “blockchain” is usually strongly tied to concepts like transactions, smart contracts or cryptocurrencies.
+
+I will learn how to code the basic concepts that are needed for a working cryptocurrency. The programming language is Python.\
+
+The most necessary:
+-	Index: the height of the block in the blockchain
+-	Data: any data is included in the block
+-	Timestamp: creation time of the block
+-	previousHash: a reference to the hash of the previous block
+-	Hash: a sha256 generated from all above contents of the block
+
